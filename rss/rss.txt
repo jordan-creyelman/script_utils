@@ -1,0 +1,60 @@
+Titre : L'IA va-t-elle éliminer des emplois, en particulier pour les développeurs ? Non, selon une enquête qui estime que l'intelligence artificielle pourrait créer plus d'emplois qu'elle n'en supprime
+Lien : https://intelligence-artificielle.developpez.com/actu/341900/L-IA-va-t-elle-eliminer-des-emplois-en-particulier-pour-les-developpeurs-Non-selon-une-enquete-qui-estime-que-l-intelligence-artificielle-pourrait-creer-plus-d-emplois-qu-elle-n-en-supprime/
+
+Titre : Ambient est un environnement d'exécution visant à simplifier la création de jeux multijoueurs et d'applications 3D hautes performances, optimisé par WebAssembly, Rust et WebGPU
+Lien : https://jeux.developpez.com/actu/341894/Ambient-est-un-environnement-d-execution-visant-a-simplifier-la-creation-de-jeux-multijoueurs-et-d-applications-3D-hautes-performances-optimise-par-WebAssembly-Rust-et-WebGPU/
+
+Titre : Une entreprise d'implants cérébraux, soutenue par Bezos et Gates, testerait sur des humains des systèmes informatiques contrôlés par l'esprit
+Lien : https://intelligence-artificielle.developpez.com/actu/341891/Une-entreprise-d-implants-cerebraux-soutenue-par-Bezos-et-Gates-testerait-sur-des-humains-des-systemes-informatiques-controles-par-l-esprit/
+
+Titre : L'IA de Microsoft Bing met fin à la conversation lorsqu'on lui demande de parler de ses sentiments, Microsoft met en place des restrictions plus sévères sur les interactions des utilisateurs avec Bing
+Lien : https://intelligence-artificielle.developpez.com/actu/341859/L-IA-de-Microsoft-Bing-met-fin-a-la-conversation-lorsqu-on-lui-demande-de-parler-de-ses-sentiments-Microsoft-met-en-place-des-restrictions-plus-severes-sur-les-interactions-des-utilisateurs-avec-Bing/
+
+Titre : Un concours de photographie organisé par des professionnels a été gagné par une intelligence artificielle, l'image a trompé les juges et les autres participants
+Lien : https://intelligence-artificielle.developpez.com/actu/341880/Un-concours-de-photographie-organise-par-des-professionnels-a-ete-gagne-par-une-intelligence-artificielle-l-image-a-trompe-les-juges-et-les-autres-participants/
+
+Titre : Le fondateur de la bourse de cryptomonnaies FTX fait l'objet de nouvelles accusations criminelles et risque jusqu'à 40 ans de prison supplémentaires s'il est reconnu coupable dans cette affaire
+Lien : http://www.developpez.com/actu/341878/Le-fondateur-de-la-bourse-de-cryptomonnaies-FTX-fait-l-objet-de-nouvelles-accusations-criminelles-et-risque-jusqu-a-40-ans-de-prison-supplementaires-s-il-est-reconnu-coupable-dans-cette-affaire/
+
+Titre : La Commission d'enrichissement de la langue française publie de nouvelles traductions de termes anglais et propose de remplacer doxing par divulgation malveillante d'informations personnelles
+Lien : http://www.developpez.com/actu/341877/La-Commission-d-enrichissement-de-la-langue-francaise-publie-de-nouvelles-traductions-de-termes-anglais-et-propose-de-remplacer-doxing-par-divulgation-malveillante-d-informations-personnelles/
+
+Titre : Les réseaux sociaux sont une cause, et non un corrélat, de la maladie mentale chez les adolescentes, selon Jon Haidt, professeur à l'École de commerce Stern de l'université de New York
+Lien : http://www.developpez.com/actu/341876/Les-reseaux-sociaux-sont-une-cause-et-non-un-correlat-de-la-maladie-mentale-chez-les-adolescentes-selon-Jon-Haidt-professeur-a-l-Ecole-de-commerce-Stern-de-l-universite-de-New-York/
+
+Titre : Le fonds spéculatif Galois Capital ferme ses portes après que la moitié de ses actifs ont été piégés sur la bourse de cryptomonnaies FTX, qui s'est brusquement effondrée il y a quelques mois
+Lien : http://www.developpez.com/actu/341875/Le-fonds-speculatif-Galois-Capital-ferme-ses-portes-apres-que-la-moitie-de-ses-actifs-ont-ete-pieges-sur-la-bourse-de-cryptomonnaies-FTX-qui-s-est-brusquement-effondree-il-y-a-quelques-mois/
+
+Titre : Le PDG d'OpenAI affirme que l'IA donnera du pouvoir aux gens sur le plan économique~? mais ne leur volera pas leur emploi, suite à la crainte de nombreux utilisateurs
+Lien : https://intelligence-artificielle.developpez.com/actu/341866/Le-PDG-d-OpenAI-affirme-que-l-IA-donnera-du-pouvoir-aux-gens-sur-le-plan-economique-mais-ne-leur-volera-pas-leur-emploi-suite-a-la-crainte-de-nombreux-utilisateurs/
+
+Titre : Valve a utilisé un " honeypot " à accès secret à la mémoire pour détecter et bannir 40 000 fraudeurs sur Dota 2
+Lien : https://jeux.developpez.com/actu/341862/Valve-a-utilise-un-honeypot-a-acces-secret-a-la-memoire-pour-detecter-et-bannir-40-000-fraudeurs-sur-Dota-2/
+
+Titre : Microsoft tente d'empêcher les utilisateurs de télécharger Chrome avec une publicité pleine page et veut les inciter à rester sur Edge
+Lien : https://microsoft.developpez.com/actu/341861/Microsoft-tente-d-empecher-les-utilisateurs-de-telecharger-Chrome-avec-une-publicite-pleine-page-et-veut-les-inciter-a-rester-sur-Edge/
+
+Titre : Ce photographe dont les portraits sont devenus viraux a une confession : ses « photos » sont générées par IA, « tout a commencé comme une expérience sociale » explique-t-il pour justifier son mensonge
+Lien : https://intelligence-artificielle.developpez.com/actu/341869/Ce-photographe-dont-les-portraits-sont-devenus-viraux-a-une-confession-ses-photos-sont-generees-par-IA-tout-a-commence-comme-une-experience-sociale-explique-t-il-pour-justifier-son-mensonge/
+
+Titre : Des experts en IA suggèrent que 39 % du temps actuellement consacré aux tâches domestiques pourrait être automatisé au cours de la prochaine décennie, mais l'étude suscite un certain scepticisme
+Lien : https://intelligence-artificielle.developpez.com/actu/341867/Des-experts-en-IA-suggerent-que-39-pourcent-du-temps-actuellement-consacre-aux-taches-domestiques-pourrait-etre-automatise-au-cours-de-la-prochaine-decennie-mais-l-etude-suscite-un-certain-scepticisme/
+
+Titre : Après le licenciement massif, Google demande à ses employés de partager leurs bureaux, afin de réduire davantage ses coûts opérationnels. Google a une capitalisation boursière de 1180 Mds $
+Lien : http://www.developpez.com/actu/341863/Apres-le-licenciement-massif-Google-demande-a-ses-employes-de-partager-leurs-bureaux-afin-de-reduire-davantage-ses-couts-operationnels-Google-a-une-capitalisation-boursiere-de-1180-Mds/
+
+Titre : Un professeur de l'Université de Pennsylvanie demande à ses étudiants d'utiliser ChatGPT, alors que certaines revues et universités interdisent l'utilisation de l'outil d'IA
+Lien : https://intelligence-artificielle.developpez.com/actu/341857/Un-professeur-de-l-Universite-de-Pennsylvanie-demande-a-ses-etudiants-d-utiliser-ChatGPT-alors-que-certaines-revues-et-universites-interdisent-l-utilisation-de-l-outil-d-IA/
+
+Titre : Microsoft prépare une nouvelle version de Teams entièrement reconstruite avec de meilleures performances dont une préversion est prévue pour mars, selon un rapport
+Lien : https://microsoft.developpez.com/actu/341854/Microsoft-prepare-une-nouvelle-version-de-Teams-entierement-reconstruite-avec-de-meilleures-performances-dont-une-preversion-est-prevue-pour-mars-selon-un-rapport/
+
+Titre : Des doyens d'université suspendus après avoir utilisé ChatGPT pour envoyer des courriels à des étudiants sur une fusillade de masse, le message a suscité un tollé au sein de l'établissement
+Lien : https://intelligence-artificielle.developpez.com/actu/341852/Des-doyens-d-universite-suspendus-apres-avoir-utilise-ChatGPT-pour-envoyer-des-courriels-a-des-etudiants-sur-une-fusillade-de-masse-le-message-a-suscite-un-tolle-au-sein-de-l-etablissement/
+
+Titre : Bill Gates affirme que l'essor de l'IA menace les bénéfices que Google tire de son moteur de recherche, mais la recherche via Bing Chat et Bard entraîne plusieurs milliards de dollars de surcoûts
+Lien : https://intelligence-artificielle.developpez.com/actu/341847/Bill-Gates-affirme-que-l-essor-de-l-IA-menace-les-benefices-que-Google-tire-de-son-moteur-de-recherche-mais-la-recherche-via-Bing-Chat-et-Bard-entraine-plusieurs-milliards-de-dollars-de-surcouts/
+
+Titre : Les éditeurs de science-fiction sont inondés d'histoires générées par l'IA, Clarkesworld Magazine fait face à un flot de soumissions, plus de 500 rien qu'en février
+Lien : https://intelligence-artificielle.developpez.com/actu/341845/Les-editeurs-de-science-fiction-sont-inondes-d-histoires-generees-par-l-IA-Clarkesworld-Magazine-fait-face-a-un-flot-de-soumissions-plus-de-500-rien-qu-en-fevrier/
+
